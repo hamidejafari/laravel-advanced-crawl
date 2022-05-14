@@ -1,0 +1,31 @@
+.text-custom{color:#0e2ea1!important}
+.bg-custom{background-color:#0e2ea1!important}
+.mainmenu ul li a, .navbar-default .navbar-nav > li > a, .navbar-expand-lg .navbar-nav .nav-link{color:#0e2ea1!important}
+.btn-custom{background-color:#0e2ea1;color:#fff;font-weight:bolder;transition:.5s;border-radius:2vh}
+.btn-custom:hover{background-color:#fff;color:#0e2ea1;font-weight:bolder}
+.why .img{border:1px solid #0e2ea1}
+.faq-home .accordion-button{border:.5px solid #0e2ea1}
+.faq-home .accordion-button:not(.collapsed){color:#0e2ea1;background-color:transparent}
+.faq-home .form-control{border:.5px solid #0e2ea1}
+.text-custom-dark{color:#082385!important}
+.bg-custom-dark{background-color:#082385!important}
+.dropbtn{color:#0e2ea1}
+.alert{border:.5px solid #0e2ea1}
+.accordion-button:not(.collapsed){color:#0e2ea1;background-color:#e9eefe}
+.dropdown-content a{border-bottom:1px solid #e9eefe}
+.text-custom-light{color:#e9eefe!important}
+.bg-custom-light{background-color:#e9eefe!important}
+.why .img:hover{background-color:#e9eefe}
+.text-custom-danger{color:#ff8c00!important}
+.bg-custom-danger{background-color:#ff8c00!important}
+.btn-custom-danger{background-color:#ff8c00;color:#fff;font-weight:bolder;transition:.5s;border-radius:1vh}
+.btn-custom-danger:hover{background-color:#fff;color:#ff8c00;font-weight:bolder}
+.reviews .btn-reply{border:1px solid #ff8c00;color:#ff8c00}
+.reviews .btn-reply:hover{background:#ff8c00;color:#fff}
+.btn-custom-outline-danger{color:#ff8c00;border-color:#ff8c00}
+.btn-custom-outline-danger:hover{color:#fff;background-color:#ff8c00;border-color:#ff8c00}
+.form-control:focus{border-color:#ff8c00;box-shadow:0 0 0 .25rem rgba(255,140,0,.25)}
+.form-select:focus{border-color:#ff8c00;box-shadow:0 0 0 .25rem rgba(255,140,0,.25)}
+.btn-check:focus+.btn,.btn:focus{box-shadow:0 0 0 .25rem rgba(255,140,0,.25)}
+.btn-custom-red{background-color:red;color:#fff;font-weight:bolder;transition:.5s;border-radius:1vh}
+.btn-custom-red:hover{background-color:#fff;color:red;font-weight:bolder}

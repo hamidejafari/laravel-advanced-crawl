@@ -1,0 +1,14 @@
+@font-face {
+  font-family: sans;
+  font-weight: 200;
+  font-style: normal;
+  src: url("../fonts/font/IRANSansWeb\(FaNum\).eot");
+  src: url("../fonts/font/IRANSansWeb(FaNum).eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/font/IRANSansWeb(FaNum).woff") format("woff2"),
+    url("../fonts/font/IRANSansWeb(FaNum).woff") format("woff"),
+    url("../fonts/font/IRANSansWeb(FaNum).ttf") format("truetype");
+}
+body {
+  font-family: sans;
+}

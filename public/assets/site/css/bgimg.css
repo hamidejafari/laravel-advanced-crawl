@@ -1,0 +1,2 @@
+.accordion-button::after{flex-shrink:0;width:1.25rem;height:1.25rem;margin-left:auto;margin-right:0;content:"";background-image:url('../images/down-arrow.png');background-repeat:no-repeat;background-size:1.25rem;transition:transform .2s ease-in-out;position:absolute;right:1.5vh}
+.accordion-button:not(.collapsed)::after{background-image:url('../images/down-arrow.png');transform:rotate(-180deg);position:absolute;right:1.5vh}
